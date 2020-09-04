@@ -2,6 +2,7 @@
 <h2 align="center">Написать мне
 <a href="https://vk.com/stawlie"><img align="center" src="https://www.vectorlogo.zone/logos/vk/vk-tile.svg" alt="vk" width="30" height="30" /></a>
 </h2>
+<img src='https://www.codewars.com/users/Stawlie/badges/micro' />
 <h3>Я начинающий front-end разработчик!</h3>
 
 - 🌱 На данный момент я изучаю **React, Js**
