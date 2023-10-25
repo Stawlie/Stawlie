@@ -5,7 +5,7 @@
 <a href="https://www.codewars.com/users/Stawlie"><img src='https://www.codewars.com/users/Stawlie/badges/micro' /></a>
 <h3>Я front-end разработчик!</h3>
 
-- 🌱 На данный момент я изучаю **Vue.js, TS, Zustand**
+- 🌱 На данный момент я изучаю **Vue.js, TS, Pinia**
 - 📫 Моя почта:  **vdowin-nikita.vdovin@yandex.ru**
 
 
